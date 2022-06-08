@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		8C22BDC32850AC36006B4185 /* TimeInterval+toString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TimeInterval+toString.swift"; sourceTree = "<group>"; };
 		9911FF7928256276003110EC /* NSString+isValidEmail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSString+isValidEmail.swift"; sourceTree = "<group>"; };
 		9911FF7A282562C8003110EC /* UIView+anchor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+anchor.swift"; sourceTree = "<group>"; };
 		9911FF7B28256399003110EC /* UIScrollView+resizeScrollViewContentSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIScrollView+resizeScrollViewContentSize.swift"; sourceTree = "<group>"; };
@@ -17,6 +18,7 @@
 		9911FF71282561A2003110EC = {
 			isa = PBXGroup;
 			children = (
+				8C22BDC32850AC36006B4185 /* TimeInterval+toString.swift */,
 				9911FF7C282563BD003110EC /* UIImage+resizeImage.swift */,
 				9911FF7B28256399003110EC /* UIScrollView+resizeScrollViewContentSize.swift */,
 				9911FF7A282562C8003110EC /* UIView+anchor.swift */,
