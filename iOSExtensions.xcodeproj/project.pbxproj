@@ -13,12 +13,20 @@
 		9911FF7A282562C8003110EC /* UIView+anchor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+anchor.swift"; sourceTree = "<group>"; };
 		9911FF7B28256399003110EC /* UIScrollView+resizeScrollViewContentSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIScrollView+resizeScrollViewContentSize.swift"; sourceTree = "<group>"; };
 		9911FF7C282563BD003110EC /* UIImage+resizeImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+resizeImage.swift"; sourceTree = "<group>"; };
+		9914300F297565700076A3FC /* UITableView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Ext.swift"; sourceTree = "<group>"; };
+		99143010297565890076A3FC /* NSObject+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSObject+Ext.swift"; sourceTree = "<group>"; };
+		99143011297565BC0076A3FC /* UIFont+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Ext.swift"; sourceTree = "<group>"; };
+		99143012297565CA0076A3FC /* UICollectionView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UICollectionView+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9911FF71282561A2003110EC = {
 			isa = PBXGroup;
 			children = (
+				99143012297565CA0076A3FC /* UICollectionView+Ext.swift */,
+				99143011297565BC0076A3FC /* UIFont+Ext.swift */,
+				99143010297565890076A3FC /* NSObject+Ext.swift */,
+				9914300F297565700076A3FC /* UITableView+Ext.swift */,
 				8CDE9AD42854AF0300A42D18 /* UIColor+rgb.swift */,
 				8C22BDC32850AC36006B4185 /* TimeInterval+toString.swift */,
 				9911FF7C282563BD003110EC /* UIImage+resizeImage.swift */,
